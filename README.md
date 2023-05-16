@@ -5,12 +5,6 @@ _iStudent_ is a site built using [Oracle Apex](https://apex.oracle.com/en/), and
 # Database Schema
 You can see the DB [schema](Student-Database-Schema.pdf) uploded in the repo.
 
-# Screenshots
-![](screenshots/1.png)
-![](screenshots/2.png)
-![](screenshots/3.png)
-![](screenshots/4.png)
-
 # Website Link
 You can try the website from this link [Click](https://apex.oracle.com/pls/apex/r/finalproject_aaup/university11)
 <br/>
@@ -19,3 +13,9 @@ use this login data to enter the website:
 **username: Guest**
 <br/>
 **password: aaupaaup**
+
+# Screenshots
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
