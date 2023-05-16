@@ -11,3 +11,11 @@ You can see the DB [schema](Student-Database-Schema.pdf) uploded in the repo.
 ![](screenshots/3.png)
 ![](screenshots/4.png)
 
+# Website Link
+You can try the website from this link [Click](https://apex.oracle.com/pls/apex/r/finalproject_aaup/university11)
+<br/>
+use this login data to enter the website:
+<br/>
+**username: Guest**
+<br/>
+**password: aaupaaup**
